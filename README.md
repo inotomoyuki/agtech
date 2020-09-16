@@ -4,8 +4,8 @@
 ![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWUkrryinpp3nwHELaek25_Ki7ywO0tCes6Q&usqp=CAU)
 
 
-## リンク先**http://54.65.200.20**    
-## GitHub**https//github.com/inotomoyuki/agtech.git
+## Agtech URL **http://54.65.200.20**    
+## GitHub **https//github.com/inotomoyuki/agtech.git**
 
 * Ruby version
 
