@@ -1,5 +1,7 @@
 # Agtech
 
+![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWUkrryinpp3nwHELaek25_Ki7ywO0tCes6Q&usqp=CAU)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -20,4 +22,4 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-トマト(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWUkrryinpp3nwHELaek25_Ki7ywO0tCes6Q&usqp=CAU)
+トマト(C)
