@@ -1,10 +1,10 @@
-# Agtech
+# Agtech (アグテック)
+
 
 ![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWUkrryinpp3nwHELaek25_Ki7ywO0tCes6Q&usqp=CAU)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
+##[リンク先のURL](http://54.65.200.20)    
 Things you may want to cover:
 
 * Ruby version
