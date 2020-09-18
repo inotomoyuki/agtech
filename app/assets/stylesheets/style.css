@@ -756,11 +756,15 @@ header.header div.header__bar.row {
 }
 
 header.header div.header__bar.row h1.grid-6 {
-  font-size: 34px;
-  line-height: 60px;
+  font-size: 34.57px;
+  line-height: 65px;
   float: left;
   font-family:'DotumChe';
   color: blueviolet;
+  text-shadow:1px 1px 0 #FFF, -1px -1px 0 #FFF,
+  -1px 1px 0 #FFF, 1px -1px 0 #FFF,
+  0px 1px 0 #FFF,  0-1px 0 #FFF,
+  -1px 0 0 #FFF, 1px 0 0 #FFF;
 }
 
 header.header div.header__bar.row h1.grid-6 a {
