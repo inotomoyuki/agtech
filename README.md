@@ -31,6 +31,10 @@
 ## ・ツイート編集
 ## ・ツイート削除
 ## ・ツイートへコメント
+![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSr15zQ4KMi5BpfnPUCzGZOumra6px-9EOg0g&usqp=CAU)
+![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCraISnBf-ZLwdRBldWfN3InpQkChFezztMg&usqp=CAU)
+![画像](https://encrypted-tbn0.gstatic.com/images?q=tbnhttps://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkORfo7Z5wZOfgGF2gYFOABXxZCAUGD6f5kg&usqp=CAU%3AANd9GcQ0lcCKXxG9jZDLy0ZO4tpuy2yIxnm2E8ysMA&usqp=CAU)
+![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkORfo7Z5wZOfgGF2gYFOABXxZCAUGD6f5kg&usqp=CAU)
 
 # 工夫したこと
 ## ・マイページ実装    ・投稿者本人のみに編集、削除許可   ・ツイートにコメント投稿    ・投稿探索機能
