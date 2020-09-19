@@ -7,7 +7,7 @@
 ### Agtech URL **http://54.65.200.20**    
 ### GitHub **git clone https//github.com/inotomoyuki/agtech.git**
 
-#　詳細
+# 詳細
 
 ### 生産者と、消費者をつなげる、チャットアプリ。  
 ### 農家の担い手も少なくなり、衰退していくようにみえる農業。しかし、AI,Iot等次世代テクノロジーをいかし、消費者とも繋がりを強くし、さらなる成長を目指す。これからの日本の基幹産業の一つとして、明るい未来を後世に伝えていく、期待を込めたアプリ。
@@ -20,4 +20,4 @@
 ![画像](https://i.gyazo.com/f566c7a768ee9d89e56f37d3bc109146.gif)
 ## ・ユーザー新規登録/ログイン  
 ### ・ニックネーム、アドレス、パスワードを入力。
-![画像](https://i.gyazo.com/e158ae1d69f8cfb79fbce158246d1fb7.gif)
+![画像](https://i.gyazo.com/4cf596b3dc20663f0d0c0d1675900ba3.gif)
