@@ -21,4 +21,4 @@
 ## ・ユーザー新規登録/ログイン  
 ### ・ニックネーム、アドレス、パスワードを入力。
 
-![画像](https://i.gyazo.com/f566c7a768ee9d89e56f37d3bc109146.gif)
+![画像](https://i.gyazo.com/278aa23c88e8ec3846f61d04ad9593b4.gif)
