@@ -15,7 +15,6 @@
 ![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmWP3JyyKNqEuJZtdj4bR5nZM6iN5wWmjqVw&usqp=CAU)
 ![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTv3Caaui4pAyUomuCxwIxYkWXjAaYGiaGkiw&usqp=CAU)
 ![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmWP3JyyKNqEuJZtdj4bR5nZM6iN5wWmjqVw&usqp=CAU)
-![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTv3Caaui4pAyUomuCxwIxYkWXjAaYGiaGkiw&usqp=CAU)
 
 # 実装機能
 
