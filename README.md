@@ -42,6 +42,6 @@
 ### ・ツイートにコメント投稿     
 ### ・投稿探索機能
 ![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTomHZWRVrgUqeD3liXWKEcAEQn2vzWXQOeHw&usqp=CAU)
-
+![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS5xR5_i-efySL45hMEWO7ELK6QCRsOyrtZZw&usqp=CAU)
 # 今後の課題
-### 決済サービスの追加。 
+### ・決済サービスの追加。 
