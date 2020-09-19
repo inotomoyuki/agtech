@@ -46,3 +46,4 @@
 ![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTomHZWRVrgUqeD3liXWKEcAEQn2vzWXQOeHw&usqp=CAU)
 # 今後の課題
 ### ・決済サービスの追加。 
+![画像](https://d1f5hsy4d47upe.cloudfront.net/35/35026fc91177fc4bd56f03a7b71d1beb_t.jpeg)
