@@ -22,3 +22,5 @@
 ### ・ニックネーム、アドレス、パスワードを入力。
 
 ![画像](https://i.gyazo.com/d244df89370000aad05cc9283f2c1984.gif)
+
+![画像](https://i.gyazo.com/01f28f6686a600f68b0ed1ea0ae94532.gif)
