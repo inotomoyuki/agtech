@@ -37,4 +37,4 @@
 ![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkORfo7Z5wZOfgGF2gYFOABXxZCAUGD6f5kg&usqp=CAU)
 
 # 工夫したこと
-## ・マイページ実装    ・投稿者本人のみに編集、削除許可   ・ツイートにコメント投稿    ・投稿探索機能
+### ・マイページ実装    ・投稿者本人のみに編集、削除許可   ・ツイートにコメント投稿    ・投稿探索機能
