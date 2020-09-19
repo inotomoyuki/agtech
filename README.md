@@ -20,5 +20,5 @@
 ![画像](https://i.gyazo.com/f566c7a768ee9d89e56f37d3bc109146.gif)
 ## ・ユーザー新規登録/ログイン  
 ### ・ニックネーム、アドレス、パスワードを入力。
-![動画](https://i.gyazo.com/e158ae1d69f8cfb79fbce158246d1fb7.gif
+![画像](https://i.gyazo.com/e158ae1d69f8cfb79fbce158246d1fb7.gif
 
