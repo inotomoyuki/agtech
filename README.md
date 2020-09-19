@@ -18,4 +18,4 @@
 # 実装機能
 
 ![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmWP3JyyKNqEuJZtdj4bR5nZM6iN5wWmjqVw&usqp=CAU)
-![画像](https://i.gyazo.com/d0a5e8ee706f32a94f5993fdbf40debd.gif)![画像](https://i.gyazo.com/d0a5e8ee706f32a94f5993fdbf40debd.gif)
+![画像](https://i.gyazo.com/f566c7a768ee9d89e56f37d3bc109146.gif)![画像](https://i.gyazo.com/d0a5e8ee706f32a94f5993fdbf40debd.gif)
