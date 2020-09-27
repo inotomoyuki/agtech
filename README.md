@@ -5,7 +5,7 @@
 
 
 ### Agtech URL **http://54.65.200.20**    
-### GitHub **git clone   https//github.com/inotomoyuki/agtech.git**
+### GitHub **git clone    https//github.com/inotomoyuki/agtech.git**
 
 # 詳細
 
