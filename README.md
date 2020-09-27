@@ -44,7 +44,7 @@ whereやLIKE句などの概念の習得。
 ・ツイートの削除機能を実装しました。
 データベースからデータを削除する処理です。
 ## ・ツイートへコメント
-・ツイート詳細画面からツイートに対して、コメントが書き込めるようなコメント機能を実装しました。
+・詳細画面からツイートに対して、コメントが書き込める機能を実装しました。
 「コメント投稿フォーム」と「コメント表示欄」の実装。
 ![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSr15zQ4KMi5BpfnPUCzGZOumra6px-9EOg0g&usqp=CAU)
 ![画像](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCraISnBf-ZLwdRBldWfN3InpQkChFezztMg&usqp=CAU)
