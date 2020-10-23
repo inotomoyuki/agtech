@@ -664,7 +664,7 @@ body {
 a {
   text-decoration: none;
   color:#ff2599;
-  font-family: 'arial unicode ms';
+  letter-spacing: 0.15em;
 }
 
 a:hover {
